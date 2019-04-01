@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Global */
+a:hover, a:focus {
+  font-weight: unset;
+  text-decoration: underline;
+}
