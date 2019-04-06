@@ -8,3 +8,55 @@ a:hover, a:focus {
   font-weight: unset;
   text-decoration: underline;
 }
+
+h1:not(:first-child), h2:not(:first-child) {
+  margin-top: 2em;
+}
+
+/* Partcipants */
+organizations {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+organizations.list {
+  display: block;
+  margin: 4em 0 0 0;
+  text-align: center;
+}
+
+organization {
+  margin: 1em;
+  text-align: center;
+  width: 200px;
+}
+
+.list organization {
+  width: auto;
+  margin: auto;
+}
+
+logo {
+  display: block;
+}
+
+logo img {
+  height: auto;
+  max-width: none;
+  min-width: 0;
+  width: auto;
+}
+
+name {
+  display: block;
+}
+
+.list name {
+  display: inline;
+}
+
+people ol {
+  margin: 1em 0 0 0;
+}

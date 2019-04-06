@@ -1,0 +1,146 @@
+orgs:
+# add in any order
+# sorted on output
+# type: person required: type, namefamily, org
+# type: org required: type, org, nick
+
+- type: org
+  org: Open Research Funders Group
+  nick: ORFG
+  url: http://www.orfg.org/
+  logo: ORFG.png
+
+- type: org
+  org: Joint Roadmap for Open Source Tools
+  nick: JROST
+  url: https://jrost.org/
+  logo: JROST.png
+
+- type: org
+  org: Toward a Scholarly Commons
+  nick: Toward a Scholarly Commons
+  url: https://scholarlycommons.net/
+  logo: TASC.png
+
+- type: org
+  org: Scholarly Publishing and Academic Resources Coalition
+  nick: SPARC
+  url: https://sparcopen.org/
+  logo: SPARC.png
+
+- type: org
+  org: Scholarly Publishing and Academic Resources Coalition Europe
+  nick: SPARC EU
+  url: https://sparceurope.org/
+  logo: SPARCEU.png
+
+- type: org
+  org: OPERAS
+  nick: OPERAS
+  url: https://operas.hypotheses.org/
+  logo: OPERAS.png
+
+- type: person
+  namegiven: Ginny
+  namefamily: Barbour
+  org: Queensland University of Technology
+
+- type: person
+  namegiven: Arianna
+  namefamily: Becerril
+  org: Universidad Autónoma del Estado de México
+
+- type: person
+  namegiven: Leslie
+  namefamily: Chan
+  org: University of Toronto
+
+- type: person
+  namegiven: Raym
+  namefamily: Crow
+  org: SPARC US
+
+- type: person
+  namegiven: Peg
+  namefamily: Fowler
+  org: Hypothesis
+
+- type: person
+  namegiven: Heather
+  namefamily: Joseph
+  org: SPARC US
+
+- type: person
+  namegiven: David
+  namefamily: Lewis
+  org: Indiana University, 2.5% Commitment
+
+- type: person
+  namegiven: Pierre
+  namefamily: Mounier
+  org: Open Edition, OPERAS
+
+- type: person
+  namegiven: Cameron
+  namefamily: Neylon
+  org: Curtin University
+
+- type: person
+  namegiven: Lucy
+  namefamily: Ofiesh
+  org: Center for Open Science
+
+- type: person
+  namegiven: Nici
+  namefamily: Pfeiffer
+  org: Center for Open Science
+
+- type: person
+  namegiven: Vanessa
+  namefamily: Proudman
+  org: SPARC Europe
+
+- type: person
+  namegiven: Kristen
+  namefamily: Ratan
+  org: CoKo Foundation
+
+- type: person
+  namegiven: Danielle
+  namefamily: Robinson
+  org: Code for Science and Society
+
+- type: person
+  namegiven: Mike
+  namefamily: Roy
+  org: Middlebury College
+
+- type: person
+  namegiven: Katherine
+  namefamily: Skinner
+  org: Educopia
+
+- type: person
+  namegiven: Ina
+  namefamily: Smith
+  org: Academy of Science of South Africa
+
+- type: person
+  namegiven: Greg
+  namefamily: Tananbaum
+  org: Open Research Funders Group
+
+- type: person
+  namegiven: Evviva
+  namefamily: Weinraub
+  org: Northwestern University
+
+- type: person
+  namegiven: Dan
+  namefamily: Whaley
+  org: Hypothesis
+
+- type: person
+  namegiven: Maurice
+  namefamily: York
+  org: University of Michigan
