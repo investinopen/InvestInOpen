@@ -35,6 +35,7 @@ The Framework will serve a number of essential functions for stakeholders concer
 1. **Collaboration**: building agreement among stakeholders, creating a healthy, competitive environment where end-to-end solutions that meet stakeholder needs and meet OI criteria can be identified and packaged.
 1. **Advocacy and Engagement**: communicating principles, priorities, good practices and practical tools.
 1. **Matching and Assessment**: Develop and maintain a methodology for matching what is needed to what is available, prioritizing collaborative solutions. The framework would help to identify areas for investment in the connections between projects that will create more fully adoptable solutions, and promote investment therein.
+
 The Framework will act as a global resource that supports OI maturity, stability and success. It increases the impact and reach of funders’ strategic investments. The Framework will also inform funding activities, described below, dedicated to the same higher goal.
 
 ## Funding Open Infrastructure
