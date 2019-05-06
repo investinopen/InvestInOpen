@@ -1,3 +1,3 @@
 ---
-redirect_to: "/docs/statement0.1"
+redirect_to: "/docs/statement0.2"
 ---
