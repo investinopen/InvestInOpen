@@ -6,7 +6,7 @@ title: Census
 # Join the Census
 The Census of Scholarly Communication Infrastructure is now open for completion by any/all scholarly communication resources (tools, services, platforms). We invite projects and programs, for profit and nonprofit corporations, and hosted initiatives of all kinds to contribute to this growing body of information.
 *   [Participate in the Census](https://www.surveymonkey.com/r/Census2019)
-*   [PDF of the Census Instrument](http://educopia.org/census-of-scholarly-communication-resources) (for reference: this contains all questions, many of which are excluded by logic from any single respondent’s experience of the census)
+*   [PDF of the Census Instrument](https://educopia.org/wp-content/uploads/2019/05/Census_2019_Open05132019.pdf) (for reference: this contains all questions, many of which are excluded by logic from any single respondent’s experience of the census)
 
 ## Background
 The Invest in Open Initiative seeks to deepen our understandings of 1) the organizational and technical infrastructures represented within existing scholarly communication resources (tools, services, platforms); and 2) the funding and investment models that currently support these tools, services, and platforms.
