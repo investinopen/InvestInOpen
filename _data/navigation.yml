@@ -1,7 +1,10 @@
 docs:
 
 - title: Our Statement
-  url: /docs/statement0.1
+  url: /docs/statement0.2
+
+- title: Our Supporters
+  url: /supporters
 
 - title: Join the Census
   url: /census
