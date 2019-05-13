@@ -15,45 +15,45 @@ To that end, in Spring 2019, IOI worked with the Andrew W. Mellon Foundation fun
 
 ## Respondents
 Those who completed the survey during its pilot launch in Spring 2019 include the following:
-* Academic Preservation Trust
-* Arch
-* arXiv
-* ASAPbio
-* Blacklight
-* CLOCKSS Archive
-* Collaborative Knowledge Foundation
-* Directory of Open Access Journals (DOAJ)
-* DOI Fabrica, DataCite Search, Make Data Count, Event Data
-* DSpace
-* eScholarship
-* Europe PMC
-* Figshare
-* Fulcrum
-* HathiTrust
-* Humanities Commons
-* Hypothes.is Project
-* Impactstory/Unpaywall
-* Internation Image Operability Framework (IIIF)
-* Islandora
-* LOCKSS Program
-* Manifold Scholarship
-* MDPI
-* MetaArchive Cooperative
-* Open Knowledge Maps – Verein zur Förderung der Sichtbarkeit wissenschaftlichen Wissens
-* OpenAIRE – Open Access Infrastructure for Research in Europe
-* OpenCitations
-* OpenEdition Center
-* ORCID
-* OSF
-* Preservica
-* Public Knowledge Project
-* Publons
-* PubPub
-* RightsLink Author
-* Samvera
-* Synapse Platform
-* Texas Digital LIbrary
-* The Center For Scientific Integrity
-* Ubiquity Press
-* Ubiquity Press platform
-* Unsilo
+1. Academic Preservation Trust
+1. Arch
+1. arXiv
+1. ASAPbio
+1. Blacklight
+1. CLOCKSS Archive
+1. Collaborative Knowledge Foundation
+1. Directory of Open Access Journals (DOAJ)
+1. DOI Fabrica, DataCite Search, Make Data Count, Event Data
+1. DSpace
+1. eScholarship
+1. Europe PMC
+1. Figshare
+1. Fulcrum
+1. HathiTrust
+1. Humanities Commons
+1. Hypothes.is Project
+1. Impactstory/Unpaywall
+1. Internation Image Operability Framework (IIIF)
+1. Islandora
+1. LOCKSS Program
+1. Manifold Scholarship
+1. MDPI
+1. MetaArchive Cooperative
+1. Open Knowledge Maps – Verein zur Förderung der Sichtbarkeit wissenschaftlichen Wissens
+1. OpenAIRE – Open Access Infrastructure for Research in Europe
+1. OpenCitations
+1. OpenEdition Center
+1. ORCID
+1. OSF
+1. Preservica
+1. Public Knowledge Project
+1. Publons
+1. PubPub
+1. RightsLink Author
+1. Samvera
+1. Synapse Platform
+1. Texas Digital LIbrary
+1. The Center For Scientific Integrity
+1. Ubiquity Press
+1. Ubiquity Press platform
+1. Unsilo
