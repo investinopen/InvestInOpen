@@ -12,5 +12,11 @@ docs:
 - title: Leadership
   url: /participants
 
+- title: Blog
+  url: /blog
+
 - title: Events
   url: /events
+
+- title: Contact IOI
+  url: /contact
