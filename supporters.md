@@ -18,7 +18,7 @@ Our organizations support this global effort to sustain open scholarly infrastru
 <ol>
   {%- assign supportingorgs = site.data.supporters | where:"Status","My Institution" | sort_natural: 'NameGiven' -%}
   {%- for org in supportingorgs -%}
-    <li><b>{{ org.NameGiven }} {{ org.NameFamily }}</b>, {{ org.Title }} for <a href="{{ org.URL }}">{{ org.Organization }}</a></li>
+    <li><b>{{ org.NameGiven }} {{ org.NameFamily }}</b>, {{ org.Title }}, for <a href="{{ org.URL }}">{{ org.Organization }}</a></li>
   {%- endfor -%}
 </ol>
 
