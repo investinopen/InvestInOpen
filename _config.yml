@@ -3,5 +3,7 @@ description: An effort to enable durable, scalable, and long lasting open scient
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+future: true
 plugins:
+  - jekyll-feed
   - jekyll-redirect-from
