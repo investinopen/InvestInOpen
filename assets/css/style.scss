@@ -13,6 +13,14 @@ h1:not(:first-child), h2:not(:first-child) {
   margin-top: 2em;
 }
 
+/* Boxes */
+.box-right {
+  float: right;
+  font-size: .8em;
+  margin: 0 0 1em 1.6em;
+  width: 30%;
+}
+
 /* Components */
 components {
   display: flex;
