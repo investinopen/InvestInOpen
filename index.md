@@ -4,7 +4,7 @@ title: "Home"
 ---
 <components>
   <component>
-    <h2>Our Concept</h2>
+    <h2>Our Statement</h2>
     <p>We imagine a world in which communities of researchers, scholars, and knowledge workers across the globe are fully enabled to share, discover, and work together. It is clear that the needs of today’s diverse scholarly communities are not being met by the existing largely uncoordinated scholarly infrastructure, which is dominated by vendor products that take ownership of the scholarly process and data. We intend to create a new open infrastructure system that will enable us to work in a more integrated, collaborative and strategic way. It will support global connections and consistency where it is appropriate, and local and contextual requirements where that is needed. <b><a href="/docs/statement0.2">Read more ></a></b></p>
   </component>
 
