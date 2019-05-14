@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Invest in Open Infrastructure Launches'
-date: '2019-05-14 09:00:00 -0400'
+date: '2019-05-14 08:00:00 -0400'
 permalink: /:year/:month/:day/:title:output_ext
 author: IOI Leadership
 authorurl: 'https://investinopen.org/participants'
