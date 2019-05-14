@@ -31,7 +31,7 @@ With this announcement, IOI:
 * Calls for feedback on our [aims and goals](https://investinopen.org/docs/statement0.2), which today are posted on our website at [investinopen.org](https://investinopen.org).
 * Invites you to [add your institution’s support](https://investinopen.org/supporters) for this initiative.
 * Invites you to [contribute to the Census of Scholarly Communication Infrastructure](https://investinopen.org/census).
-* Invites you to [join one of our scheduled webinars](https://investinopen.org/events) which will provide a deeper dive on IOI.
+* Invites you to [join one of our scheduled webinars](https://forms.gle/DhzjNowfyyJLHn7dA) which will provide a deeper dive on IOI.
 * Asks that you [subscribe to receive further information](https://investinopen.org/contact) if you’re interested.
 
 As next steps we will be securing funding to support several leadership positions, and will be recruiting in both Europe, the United States and beyond. Prospective candidates or those with recommendations should email [info@investinopen.org](mailto:info@investinopen.org).
