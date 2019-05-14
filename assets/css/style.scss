@@ -13,6 +13,21 @@ h1:not(:first-child), h2:not(:first-child) {
   margin-top: 2em;
 }
 
+/* Components */
+components {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+component:first-of-type {
+  width: 100%;
+}
+
+component {
+  padding: 1em;
+  width: 40%;
+}
+
 /* Partcipants */
 organizations {
   align-items: center;
