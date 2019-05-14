@@ -23,6 +23,11 @@ IOI is a new group whose purpose is to design a new system to provide long-term 
 
 Face-to-face working session of the IOI Working Group to make progress on the organizational rollout activities of the IOI initiative formulated during the working group’s first F2F, held at the Sloan Foundation in January, 2019. Co-located with the [International Conference on Electronic Publishing](https://elpub2019.hypotheses.org/) (ElPub) 2019.
 
+## IOI Launch Webinar
+- **Tuesday, 28 May 2019, 8am ET (free)**
+
+[Register](https://forms.gle/DhzjNowfyyJLHn7dA) for the 28 May workshop ([check the time in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=IOI+Webinar&iso=20190528T08&p1=179&ah=1)) to hear about the Invest in Open Infrastructure project from members of the community and learn how you can get involved. The webinar will be recorded and shared, but you can also sign up to let us know if another time that would work better for you.
+
 ## Coalition for Networked Information (CNI) Spring 2019 Membership Meeting
 - **8–9 April 2019**
 - **St. Louis, Missouri, at the The Ritz Carlton, [100 Carondelet Plaza](https://cnispring2019membershipmeeting.sched.com/venues?iframe=yes&w=100%&sidebar=yes&bg=no)**
