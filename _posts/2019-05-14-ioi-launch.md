@@ -10,6 +10,15 @@ categories: open, science, research, scholarship, humanities, tools, services, p
 
 Today we are announcing the formation of Invest In Open Infrastructure (IOI) a global initiative to increase the availability and sustainability of open knowledge infrastructure.
 
+<div class="box-right">
+  <h2>More Launch Posts</h2>
+  <p><strong>African Open Science Platform</strong>: <a href="http://africanopenscience.org.za/?p=1160">A Call to Invest in Open Infrastructure – the Invest in Open Infrastructure initiative</a> by Ina Smith, Planning Manager</p>
+  <p><strong>Code for Science &amp; Society</strong>: <a href="https://blog.codeforscience.org/invest-in-open-infrastructure/">The Future of Open Scholarly Infrastructure</a> by Danielle Robinson, Co-Executive Director</p>
+  <p><strong>Hypothesis</strong>: <a href="https://web.hypothes.is/blog/announcing-invest-in-open-infrastructure/">Announcing Invest in Open Infrastructure</a> by Dan Whaley, Founder & CEO</p>
+  <p><strong>Open Research Funders Group</strong>: <a href="http://www.orfg.org/news/2019/5/8/open-research-funders-group-applauds-launch-of-invest-in-open-infrastructure">Open Research Funders Group Applauds Launch of Invest In Open Infrastructure</a> by Greg Tananbaum, ORFG Coordinator</p>
+  <p><strong>SPARC</strong>: <a href="https://sparcopen.org/news/2019/investing-in-open-scholarly-infrastructure-a-community-opportunity/">Investing in Open Scholarly Infrastructure: a Community Opportunity</a> by Heather Joseph, Executive Director</p>
+</div>
+
 The needs of today’s diverse scholarly communities are not being met by the existing largely uncoordinated scholarly infrastructure, which is dominated by vendor products that take ownership of the scholarly process and data without appropriate governance and oversight from the communities they serve. We imagine a world in which communities of researchers, scholars, and knowledge workers across the globe are fully enabled to share, discover, and collaborate using tools and platforms that are designed to interoperate and complement one another rather than compete and exclude.
 
 IOI will consist of two functions, one is an assessment and recommendation framework that will regularly survey the landscape of open scholarly infrastructure with respect to its functionality, usage, health and financial needs and make funding recommendations for that infrastructure.
