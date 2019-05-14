@@ -1,7 +1,7 @@
 title: Invest in Open Infrastructure
 description: An effort to enable durable, scalable, and long lasting open scientific and scholarly infrastructure to emerge, thrive, and deliver its benefits on a global scale.
 show_downloads: false
-google_analytics:
+google_analytics: UA-26026798-9
 theme: jekyll-theme-minimal
 future: true
 plugins:
