@@ -4,8 +4,6 @@ title: Supporters
 ---
 
 # Statement in Support of Invest in Open Infrastructure
-**_Uniting initiatives to expand the scope of current open source for open science._**
-
 Scholarship is at its best when communities of researchers, scholars, and knowledge workers can share, discover, and collaborate. However, the needs of this community are not well-served by the existing scholarly communication infrastructure, which is dominated by commercial vendors whose missions and values often run counter to those of the scholarly community. When the business models of these vendors favor lock-in, consolidation and monopoly, they create a market where opportunity for healthy competition is limited.
 
 While many promising open infrastructure projects have demonstrated their value, most operate independently, and struggle with securing ongoing operational funding. There is a pressing need for a coordinated, global effort to provide collective support for developing and sustaining open infrastructure that operates in a manner that is aligned with the values of the scholarly community it serves.
