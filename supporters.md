@@ -16,7 +16,7 @@ Our organizations support this global effort to sustain open scholarly infrastru
 <ol>
   {%- assign supportingorgs = site.data.supporters | where:"Status","My Institution" | sort_natural: 'NameGiven' -%}
   {%- for org in supportingorgs -%}
-    <li><b>{{ org.NameGiven }} {{ org.NameFamily }}</b>, {{ org.Title }}, for <a href="{{ org.URL }}">{{ org.Organization }}</a></li>
+    <li><b>{{ org.NameGiven }} {{ org.NameFamily }}</b>{% if org.Title %}{{ org.Title | prepend: ", " | append: ","}}{% endif %} for <a href="{{ org.URL }}">{{ org.Organization }}</a></li>
   {%- endfor -%}
 </ol>
 
@@ -24,6 +24,6 @@ Our organizations support this global effort to sustain open scholarly infrastru
 <ol>
   {%- assign supportingpeople = site.data.supporters | where:"Status","Myself" | sort: 'NameGiven' -%}
   {%- for person in supportingpeople -%}
-    <li><b>{{ person.NameGiven }} {{ person.NameFamily }}</b>, {{ person.Title }} at <a href="{{ person.URL }}">{{ person.Organization }}</a></li>
+    <li><b>{{ person.NameGiven }} {{ person.NameFamily }}</b>{% if person.Title %}{{ person.Title | prepend: ", " }}{% endif %} at <a href="{{ person.URL }}">{{ person.Organization }}</a></li>
   {%- endfor -%}
 </ol>

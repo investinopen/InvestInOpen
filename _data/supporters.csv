@@ -1,7 +1,7 @@
 Timestamp,Email,NameGiven,NameFamily,Organization,Title,URL,Status,OptIn
 5/13/2019 19:43:51,ginny.barbour@qut.edu.au,Ginny,Barbour,Australasian Open Access Strategy Group,Director,https://aoasg.org.au/,My Institution,Yes
 5/13/2019 19:43:51,arianna.becerril@gmail.com,Arianna,Becerril,Universidad Autónoma del Estado de México,Professor,https://www.uaemex.mx/,My Institution,Yes
-5/13/2019 19:43:51,chan@utsc.utoronto.ca,Leslie,Chan,University of Toronto Scarborough,"Associate Professor, Teaching Stream",https://www.utsc.utoronto.ca/,My Institution,Yes
+5/13/2019 19:43:51,chan@utsc.utoronto.ca,Leslie,Chan,"Centre for Critical Development Studies, University of Toronto Scarborough","Associate Professor, Teaching Stream",https://www.utsc.utoronto.ca/ccds/welcome-centre-critical-development-studies-ccds,My Institution,Yes
 5/13/2019 19:43:51,crow@sparcopen.org,Raym,Crow,SPARC,Senior Consultant,https://sparcopen.org/,Myself,Yes
 5/13/2019 19:43:51,pfowler@hypothes.is,Peg,Fowler,Hypothesis,"Director, Business Operations",https://web.hypothes.is/,Myself,Yes
 5/13/2019 19:43:51,heather@sparcopen.org,Heather,Joseph,SPARC,Executive Director,https://sparcopen.org/,My Institution,Yes
@@ -20,3 +20,31 @@ Timestamp,Email,NameGiven,NameFamily,Organization,Title,URL,Status,OptIn
 5/13/2019 19:43:51,dwhaley@hypothes.is,Dan,Whaley,Hypothesis,Founder & CEO,https://web.hypothes.is/,My Institution,Yes
 5/13/2019 19:43:51,jpwilkin@illinois.edu,John,Wilkin,University of Illinois at Urbana-Champaign,Dean of Libraries and University Librarian,https://illinois.edu/,My Institution,Yes
 5/13/2019 19:43:51,mcyork@umich.edu,Maurice,York,University of Michigan,Associate University Librarian for Library Information Technology,https://umich.edu/,My Institution,Yes
+5/13/2019 19:43:51,nateangell@hypothes.is,Nate,Angell,Hypothesis,Director of Marketing,https://web.hypothes.is/,Myself,Yes
+5/14/2019 17:15:54,ehling@mit.edu,Terry,Ehling,MIT Knowledge Futures Group,Managing Director,https://kfg.mit.edu/,Myself,Yes
+5/14/2019 17:54:09,jefferson@archive.org,Jefferson,Bailey,Internet Archive,"Director, Web Archiving & Data Services",https://archive.org/,My Institution,Yes
+5/14/2019 18:24:53,nick@sparcopen.org,Nick,Shockey,SPARC,Director of Programs & Engagement,https://www.sparcopen.org,Myself,Yes
+5/14/2019 19:17:04,jean-francois.lutz@univ-lorraine.fr,Jean-Francois,Lutz,Université de Lorraine,Head of Digital Library,http://bu.univ-lorraine.fr,Myself,Yes
+5/14/2019 19:38:34,bcb4y@virginia.edu,Brandon,Butler,University of Virginia Library,Director of Information Policy,http://library.virginia.edu,Myself,Yes
+5/14/2019 20:40:18,paige_mann@redlands.edu,Paige,Mann,University of Redlands,Scholarly Communications Librarian | STEM Librarian,https://www.redlands.edu,Myself,Yes
+5/14/2019 20:40:52,stephanie.walker@und.edu,Stephanie,Walker,University of North Dakota Libraries,Dean of Libraries & Information Resources,http://library.und.edu,Myself,Yes
+5/14/2019 21:02:21,lisalibrarian@gmail.com,Lisa,Hinchliffe,University of Illinois at Urbana-Champaign,Professor/Coordinator for Information Literacy Services & Instruction,http://lisahinchliffe.com,Myself,Yes
+5/15/2019 1:10:30,dasbabini@gmail.com,Dominique,Babini,CLACSO-Latin American Council of Social Sciences,Open Access Advisor,http://biblioteca.clacso.edu.ar/documentos/CLACSO_and_Open_Access_version_ingles.pdf,My Institution,Yes
+5/15/2019 1:14:41,clacsoinst@clacso.edu.ar,Karina,Batthyány,CLACSO-Latin American Social Science Council,Executive Secretary,http://www.clacso.org,My Institution,No
+5/15/2019 4:07:55,sjklein@mit.edu,Samuel,Klein,New England Wikimedians,Founder,http://meta.wikimedia.org,Myself,Yes
+5/15/2019 7:54:31,b.m.r.kramer@uu.nl,Bianca,Kramer,Utrecht University,Scholarly Communication Librarian,https://www.uu.nl,Myself,Yes
+5/15/2019 8:29:10,e.ferwerda@oapen.org,Eelco,Ferwerda,OAPEN Foundation,Director,http://www.oapen.org,My Institution,Yes
+5/15/2019 9:04:06,chris@libscie.org,Chris,Hartgerink,Independent,,https://chjh.nl,Myself,Yes
+5/15/2019 10:24:51,Janardhanan.Vijayakumar@KAUST.EDU.SA,J. K.,Vijayakumar,King Abdullah University of Science and Technology Library,Library Director,http://library.kaust.edu.sa,My Institution,Yes
+5/15/2019 11:21:10,omo.oaiya@wacren.net,Omo,Oaiya,West and Central African Research and Education Network (WACREN),Chief Strategy Officer,https://www.wacren.net,My Institution,Yes
+5/15/2019 11:50:30,a.sila@cgiar.org,Andrew,Sila,ICRAF,Data Scientist,http://worldagroforestry.org/sd/landhealth/soil-plant-spectral-diagnostics-laboratory,Myself,Yes
+5/15/2019 11:59:19,mendulla@yahoo.com,Ahmed,Ogunlaja,Washington University in St Louis,Student,https://brownschool.wustl.edu,Myself,Yes
+5/15/2019 12:17:58,jphiri@buse.ac.zw,Josiline,Chigwada,Bindura University of Science Education,Sub Librarian - Information Services,http://library.buse.ac.zw,Myself,Yes
+5/15/2019 12:54:24,jsagbohan2010@gmail.com,Joseph,Sagbohan,University of Abomey Calavi,Library and ICT project Manager,http://www.uac.bj,Myself,Yes
+5/15/2019 12:57:30,raymond.katebaka@gmail.com,Raymond,Katebaka,African Union of Conservationists (AUC),General Secretary,https://www.afruc.org/,My Institution,Yes
+5/15/2019 13:21:13,peter_suber@harvard.edu,Peter,Suber,Harvard University,"Director, Office for Scholarly Communication",https://www.harvard.edu/,Myself,Yes
+5/15/2019 13:30:20,felix.emeka.anyiam@gmail.com,Felix Emeka,Anyiam,"Centre for Health and Development, University of Port Harcourt, Port Harcourt, Nigeria",Research Officer & Data Analyst/Scientist,https://www.uniport.edu.ng/,Myself,Yes
+5/15/2019 13:53:33,Robert.Miller@lyrasis.org,Robert,Miller,LYRASIS,CEO,https://www.lyrasis.org/Pages/Main.aspx,My Institution,Yes
+5/15/2019 14:24:01,mlvandeg@ncsu.edu,Micah,Vandegrift,North Carolina State University,Open Knowledge Librarian,https://www.lib.ncsu.edu/staff/mlvandeg,Myself,Yes
+5/15/2019 14:58:00,johntenywa@gmail.com,John Stephen,Tenywa,"College of Agricultural and Environmental Sciences, Makerere University",Associate Professor,https://www.caes.mak.ac.ug,Myself,Yes
+5/15/2019 15:58:15,jorlowitz@wikimedia.org,Jake,Orlowitz,The Wikipedia Library,Lead,http://wikipedialibrary.org,My Institution,No
