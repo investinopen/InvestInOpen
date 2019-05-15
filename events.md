@@ -12,7 +12,7 @@ Events of interest to the IOI community, listed in reverse chronological order.
   {%- assign startdate = event.start |  date: "%e %B %Y" -%}
   {%- assign enddate = event.end |  date: "%e %B %Y" -%}
   <h2>{{ event.title }}</h2>
-  <p><b>{{ event.start | date: "%A %e %B %Y %k:%M" }}&ndash;{%- if enddate != startdate -%}{{ event.end | date: "%A %e %B %Y" | append: " " }}{%- endif -%}{{ event.end | date: "%k:%M" }} {{ event.timezone }}</b></p>
+  <p><b>{{ event.start | date: "%A %e %B %Y %R" }}&ndash;{%- if enddate != startdate -%}{{ event.end | date: "%A %e %B %Y" | append: " " }}{%- endif -%}{{ event.end | date: "%R" }} {{ event.timezone }}</b></p>
   <p><b>{{ event.location | markdownify }}</b></p>
   <p>{{ event.description | markdownify }}</p>
 {%- endfor -%}
