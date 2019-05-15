@@ -28,7 +28,7 @@ Timestamp,Email,NameGiven,NameFamily,Organization,Title,URL,Status,OptIn
 5/14/2019 19:38:34,bcb4y@virginia.edu,Brandon,Butler,University of Virginia Library,Director of Information Policy,http://library.virginia.edu,Myself,Yes
 5/14/2019 20:40:18,paige_mann@redlands.edu,Paige,Mann,University of Redlands,Scholarly Communications Librarian | STEM Librarian,https://www.redlands.edu,Myself,Yes
 5/14/2019 20:40:52,stephanie.walker@und.edu,Stephanie,Walker,University of North Dakota Libraries,Dean of Libraries & Information Resources,http://library.und.edu,Myself,Yes
-5/14/2019 21:02:21,lisalibrarian@gmail.com,Lisa,Hinchliffe,University of Illinois at Urbana-Champaign,Professor/Coordinator for Information Literacy Services & Instruction,http://lisahinchliffe.com,Myself,Yes
+5/14/2019 21:02:21,lisalibrarian@gmail.com,Lisa,Hinchliffe,University of Illinois at Urbana-Champaign ,Professor/Coordinator for Information Literacy Services & Instruction ,http://lisahinchliffe.com,Myself,Yes
 5/15/2019 1:10:30,dasbabini@gmail.com,Dominique,Babini,CLACSO-Latin American Council of Social Sciences,Open Access Advisor,http://biblioteca.clacso.edu.ar/documentos/CLACSO_and_Open_Access_version_ingles.pdf,My Institution,Yes
 5/15/2019 1:14:41,clacsoinst@clacso.edu.ar,Karina,Batthyány,CLACSO-Latin American Social Science Council,Executive Secretary,http://www.clacso.org,My Institution,No
 5/15/2019 4:07:55,sjklein@mit.edu,Samuel,Klein,New England Wikimedians,Founder,http://meta.wikimedia.org,Myself,Yes
@@ -44,7 +44,13 @@ Timestamp,Email,NameGiven,NameFamily,Organization,Title,URL,Status,OptIn
 5/15/2019 12:57:30,raymond.katebaka@gmail.com,Raymond,Katebaka,African Union of Conservationists (AUC),General Secretary,https://www.afruc.org/,My Institution,Yes
 5/15/2019 13:21:13,peter_suber@harvard.edu,Peter,Suber,Harvard University,"Director, Office for Scholarly Communication",https://www.harvard.edu/,Myself,Yes
 5/15/2019 13:30:20,felix.emeka.anyiam@gmail.com,Felix Emeka,Anyiam,"Centre for Health and Development, University of Port Harcourt, Port Harcourt, Nigeria",Research Officer & Data Analyst/Scientist,https://www.uniport.edu.ng/,Myself,Yes
-5/15/2019 13:53:33,Robert.Miller@lyrasis.org,Robert,Miller,LYRASIS,CEO,https://www.lyrasis.org/Pages/Main.aspx,My Institution,Yes
+5/15/2019 13:31:20,hussein.sherief@gmail.com,Hussein,Sherief,Almaahad Almutagadem Specialized Computer Training Center (AASCTC),Director,http://www.aasctc.com,My Institution,Yes
+5/15/2019 13:53:33,Robert.Miller@lyrasis.org,Robert,Miller,LYRASIS ,CEO,https://www.lyrasis.org/Pages/Main.aspx,My Institution,Yes
 5/15/2019 14:24:01,mlvandeg@ncsu.edu,Micah,Vandegrift,North Carolina State University,Open Knowledge Librarian,https://www.lib.ncsu.edu/staff/mlvandeg,Myself,Yes
 5/15/2019 14:58:00,johntenywa@gmail.com,John Stephen,Tenywa,"College of Agricultural and Environmental Sciences, Makerere University",Associate Professor,https://www.caes.mak.ac.ug,Myself,Yes
 5/15/2019 15:58:15,jorlowitz@wikimedia.org,Jake,Orlowitz,The Wikipedia Library,Lead,http://wikipedialibrary.org,My Institution,No
+5/15/2019 18:50:17,ynnoawasom@yahoo.com,Innocent,Awasom,Texas Tech University Lubbock,Associate Librarian,https://www.depts.ttu.edu/library/,Myself,Yes
+5/15/2019 19:25:44,aclobridge@fireoakstrategies.com,Abby,Clobridge,FireOak Strategies,Founder,https://fireoakstrategies.com,My Institution,Yes
+5/15/2019 20:32:23,christian.hauschke@tib.eu,Christian,Hauschke,Technische Informationsbibliothek (TIB),Project Management VIVO,https://tib.eu,Myself,Yes
+5/15/2019 20:47:43,juan@alperin.ca,Juan Pablo,Alperin,Scholarly Communications Lab ,Director,https://www.scholcommlab.ca/,My Institution,Yes
+5/15/2019 21:26:18,heather@knowledgefutures.org,Heather,Staines,MIT Knowledge Futures Group,Head of Partnerships,http://kfg.mit.edu,Myself,Yes
