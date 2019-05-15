@@ -17,6 +17,7 @@ Today we are announcing the formation of Invest In Open Infrastructure (IOI) a g
   <p><strong>Hypothesis</strong>: <a href="https://web.hypothes.is/blog/announcing-invest-in-open-infrastructure/">Announcing Invest in Open Infrastructure</a> by Dan Whaley, Founder & CEO</p>
   <p><strong>Open Research Funders Group</strong>: <a href="http://www.orfg.org/news/2019/5/8/open-research-funders-group-applauds-launch-of-invest-in-open-infrastructure">Open Research Funders Group Applauds Launch of Invest In Open Infrastructure</a> by Greg Tananbaum, ORFG Coordinator</p>
   <p><strong>SPARC</strong>: <a href="https://sparcopen.org/news/2019/investing-in-open-scholarly-infrastructure-a-community-opportunity/">Investing in Open Scholarly Infrastructure: a Community Opportunity</a> by Heather Joseph, Executive Director</p>
+  <p><a href="/coverage">Read more coverage ></a></p>
 </div>
 
 The needs of today’s diverse scholarly communities are not being met by the existing largely uncoordinated scholarly infrastructure, which is dominated by vendor products that take ownership of the scholarly process and data without appropriate governance and oversight from the communities they serve. We imagine a world in which communities of researchers, scholars, and knowledge workers across the globe are fully enabled to share, discover, and collaborate using tools and platforms that are designed to interoperate and complement one another rather than compete and exclude.
