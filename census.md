@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Census
+permalink: /census/
+redirect_from: "/census.html"
 ---
 
 # Join the Census

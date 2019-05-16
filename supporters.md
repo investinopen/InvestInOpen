@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Supporters
+permalink: /supporters/
+redirect_from: "/supporters.html"
 ---
 
 # Statement in Support of Invest in Open Infrastructure

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Contact IOI
+permalink: /contact/
+redirect_from: "/contact.html"
 ---
 
 # Contact IOI

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Events
+permalink: /events/
+redirect_from: "/events.html"
 ---
 
 # Events

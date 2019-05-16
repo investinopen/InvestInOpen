@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Media Coverage
+permalink: /coverage/
+redirect_from: "/coverage.html"
 ---
 
 # Media Coverage
