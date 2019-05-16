@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Participants
+redirect_from: "/participants/"
 ---
 
 # Participating Organizations
