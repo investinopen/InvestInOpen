@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Participants
-redirect_from: "/participants/"
+permalink: /participants/
+redirect_from: "/participants.html"
 ---
 
 # Participating Organizations
