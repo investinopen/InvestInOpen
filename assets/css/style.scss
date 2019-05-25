@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+/* Overrides */
+header {
+  position: relative;
+}
+
 /* Global */
 a:hover, a:focus {
   font-weight: unset;
