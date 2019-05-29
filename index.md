@@ -30,8 +30,6 @@ title: "Home"
   <component>
     <h2>Recent & Upcoming Events</h2>
     <h3>IOI Launch Webinar</h3>
-    <p><b>Tuesday 28 May 2019 8:00–9:00 EDT (UTC -4)</b></p>
-    <p><a href="https://forms.gle/DhzjNowfyyJLHn7dA">Register</a> for the 28 May workshop (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=IOI+Webinar&iso=20190528T08&p1=179&ah=1">check the time in your timezone</a>) to hear about the Invest in Open Infrastructure project from members of the community and learn how you can get involved. The webinar will be recorded and shared, but you can also sign up to let us know if another time that would work better for you.</p>
-    <p><b><a href="/events">See all events ></a></b></p>
+    <p><a href="/2019/05/28/ioi-launch-webinar.html">View a recording</a> of the 28 May webinar to hear about the Invest in Open Infrastructure project from members of the community and learn how you can get involved.</p>
   </component>
 </components>
