@@ -14,7 +14,7 @@ Timestamp,Email,NameGiven,NameFamily,Organization,Title,URL,Status,OptIn
 5/13/2019 19:43:51,danielle@codeforscience.org,Danielle,Robinson,Code for Science and Society,Co-Executive Director,https://codeforscience.org/,My Institution,Yes
 5/13/2019 19:43:51,mdroy@middlebury.edu,Mike,Roy,Middlebury College,Dean of the Library,http://www.middlebury.edu/,My Institution,Yes
 5/13/2019 19:43:51,katherine@educopia.org,Katherine,Skinner,Educopia Institute,Executive Director,https://educopia.org/,My Institution,Yes
-5/13/2019 19:43:51,Ina@assaf.org.za,Ina,Smith,Academy of Science of South Africa,Planning Manager,https://www.assaf.org.za/,My Institution,Yes
+5/13/2019 19:43:51,himla@assaf.org.za,Himla,Soodyall,Academy of Science of South Africa,Executive Officer,https://www.assaf.org.za/,My Institution,Yes
 5/13/2019 19:43:51,greg@orfg.org,Greg,Tananbaum,Open Research Funders Group,ORFG Coordinator,http://www.orfg.org/,My Institution,Yes
 5/13/2019 19:43:51,evviva.weinraub@northwestern.edu,Evviva,Weinraub,Northwestern University,Associate University Librarian for Digital Strategies,https://www.northwestern.edu/,My Institution,Yes
 5/13/2019 19:43:51,dwhaley@hypothes.is,Dan,Whaley,Hypothesis,Founder & CEO,https://web.hypothes.is/,My Institution,Yes
@@ -122,3 +122,25 @@ Timestamp,Email,NameGiven,NameFamily,Organization,Title,URL,Status,OptIn
 6/9/2019 4:58:26,paloma.arraiza@unesp.br,Paloma,Marín Arraiza,Universidade Estadual Paulista - UNESP,PhD student,https://www2.unesp.br/,Myself,Yes
 6/9/2019 7:25:18,marcel.laflamme@lbg.ac.at,Marcel,LaFlamme,LBG Open Innovation in Science Center,Postdoctoral Researcher,http://ois.lbg.ac.at,Myself,Yes
 6/10/2019 19:44:24,waltmanlr@cwts.leidenuniv.nl,Ludo,Waltman,"Centre for Science and Technology Studies (CWTS), Leiden University",Professor of Quantitative Science Studies,https://www.cwts.nl/,Myself,Yes
+6/12/2019 20:28:53,deborah.helman@wisc.edu,Deborah,Helman,University of Wisconsin - Madison Libraries,Director of Science & Engineering Libraries,https://library.wisc.edu,Myself,Yes
+6/13/2019 6:13:13,rupert.gatti@openbookpublishers.com,Rupert,Gatti,Open Book Publishers,Co-founder,https://openbookpublishers.com,My Institution,Yes
+6/14/2019 13:32:57,thombello@gmail.com,Thomas,Bello,"Kamuzu College of Nursing, University of Malawi",Senior Assistant Librarian,http://www.kcn.unima.mw,Myself,Yes
+6/14/2019 13:39:54,ina@assaf.org.za,Ina,Smith,Academy of Science of South Africa/African Open Science Platform,Project Manager,http://africanopenscience.org.za/,Myself,Yes
+6/14/2019 13:54:59,j.alhassan@futminna.edu.ng,Jibril Attahiru,Alhassan,Federal University of Technology Minna,University Librarian,http://www.futminna.edu.ng,Myself,Yes
+6/14/2019 13:56:47,RANYAALSAYED@GMAIL.COM,Rania,Ibrahim,National Authority for Remote Sensing and Space Sciences,Researcher,http://www.narss.sci.eg,Myself,Yes
+6/14/2019 14:05:20,jon.tennant.2@gmail.com,Jonathan,Tennant,Center for Research and Interdisciplinarity,Research Fellow,https://cri-paris.org/,Myself,Yes
+6/14/2019 14:58:18,editorejhd@yahoo.com,Kidist,Sahlu,Ethiopian Journal of Health Development,Journal Administrator,https://www.ejhd.org,My Institution,Yes
+6/14/2019 15:35:09,nozukohlwatika09@gmail.com,Nozuko,Hlwatika,University of South Africa,Administrator,https://www.unisa.ac.za/sites/corporate/default,Myself,Yes
+6/14/2019 15:41:55,hjeffcoat@smu.edu,Holly,Jeffcoat,Southern Methodist University,Dean of SMU Libraries,https://www.smu.edu/libraries/,My Institution,Yes
+6/14/2019 15:49:21,jsagbohan2010@gmail.com,Joseph,Sagbohan,University of Abomey Calavi,Library and ICT Project Manager,http://www.uac.bj,My Institution,Yes
+6/14/2019 17:22:22,christa.rautenbach@nwu.ac.za,Christa,Rautenbach,North-West University,Professor and Editor-in-chief,https://journals.assaf.org.za/index.php/per/index,Myself,No
+6/15/2019 11:39:49,tyelemou@univ-bobo.bf,Tiguiane,Yelemou,University Nazi BONI,Senior Professor,https://univ-bobo.bf,My Institution,Yes
+6/15/2019 16:14:50,g.yeboah@warwick.ac.uk,Godwin,Yeboah,Institute for Global Sustainable Development - University of Warwick,Senior Research Fellow,https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/,Myself,Yes
+6/15/2019 17:18:21,philipp.conzett@uit.no,Philipp,Conzett,UiT The Arctic University of Norway,Senior Research Librarian,https://en.uit.no/,Myself,Yes
+6/16/2019 21:44:30,mslevine@umich.edu,Melissa,Levine,University of Michigan Library,"Director, Copyright Office",https://lib.umich.edu,Myself,Yes
+6/17/2019 1:42:00,elainelw@email.unc.edu,Elaine,Westbrooks,University of North Carolina at Chapel Hill,University Librarian & Vice Provost,https://library.unc.edu,My Institution,Yes
+6/17/2019 4:45:32,mlesaoana01@gmail.com,Maseka,Lesaoana,Independent,Researcher,,Myself,Yes
+6/17/2019 7:40:57,qobose@ub.ac.bw,Edwin,Qobose,University of Botswana Library,Director,https://kitsiso.ub.bw/,Myself,Yes
+6/17/2019 7:53:40,muliaro@icsit.jkuat.ac.ke,Joseph,Wafula,JKUAT,Director,http://www.jkuat.ac.ke,My Institution,Yes
+6/17/2019 11:12:11,sogoba.souleymane@gmail.com,Souleymane,Sogoba,CPS/SDR,Archivist-Documentalist,https://faceboob.com/souleymanesogoba.9,Myself,Yes
+6/17/2019 14:22:59,joe@openaccessbutton.org,Joseph,McArthur,Open Access Button,Director,https://openaccessbutton.org,My Institution,Yes
