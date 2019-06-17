@@ -13,6 +13,9 @@ Read more about IOI as covered in various publications.
 
 # Blog Posts
 Read about IOI in posts from our community and beyond.
+- **5 Jun 2019 National Information Standards Organization**: [Recently Announced Initiative: Invest in Open Infrastructure](https://www.niso.org/niso-io/2019/06/recently-announced-initiative-invest-open-infrastructure) by Jill O'Neill, Director of Content, NISO
+- **31 May 2019 SPARC Europe**: [SPARC Europe gets behind IOI, a new effort to help secure Open infrastructure](https://sparceurope.org/sparc-europe-gets-behind-ioi-a-new-effort-to-help-secure-open-infrastructure/)
+- **27 May 2019 Center for Open Science**: [Invest in Open Infrastructure: Promoting available, sustainable open solutions](https://cos.io/about/news/invest-open-infrastructure-promoting-available-sustainable-open-solutions/)
 - **14 May 2019 Academy of Science of South Africa**: [Invest in Open Infrastructure Launches](https://www.assaf.org.za/index.php/news/547-invest-in-open-infrastructure-launches) by Ina Smith, Planning Manager, Academy of Science of South Africa
 - **14 May 2019 African Open Science Platform**: [A Call to Invest in Open Infrastructure – the Invest in Open Infrastructure initiative](http://africanopenscience.org.za/?p=1160) by Ina Smith, Planning Manager, Academy of Science of South Africa
 - **14 May 2019 Code for Science & Society**: [The Future of Open Scholarly Infrastructure](https://blog.codeforscience.org/invest-in-open-infrastructure/) by Danielle Robinson, Co-Executive Director, Code for Science and Society
