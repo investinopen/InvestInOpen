@@ -7,6 +7,8 @@ redirect_from: "/coverage.html"
 
 # Media Coverage
 Read more about IOI as covered in various publications.
+- **12 Jun 2019 The Scholarly Kitchen**: [Invest in Open Infrastructure: An Interview with Dan Whaley](https://scholarlykitchen.sspnet.org/2019/06/12/invest-open-infrastructure/) by Roger C. Schonfeld
+- **27 May 2019 Times Higher Education**: [Journals only half the story, says new open access alliance](https://www.timeshighereducation.com/news/journals-only-half-story-says-new-open-access-alliance) by John Ross
 - **14 May 2019 LJ's InfoDOCKET**: [A Global Coalition of Non-Profits and Institutions Launches “Invest in Open Infrastructure” Initiative](https://www.infodocket.com/2019/05/14/a-global-coalition-of-non-profits-and-institutions-launches-invest-in-open-infrastructure-initiative/) by Gary Price
 
 # Blog Posts
