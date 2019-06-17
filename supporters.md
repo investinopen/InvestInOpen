@@ -18,7 +18,7 @@ Our organizations support this global effort to sustain open scholarly infrastru
 <ol>
   {%- assign supportingorgs = site.data.supporters | where:"Status","My Institution" | sort_natural: 'Organization' -%}
   {%- for org in supportingorgs -%}
-    <li><b><a href="{{ org.URL }}">{{ org.Organization }}</a></b>, by {{ org.NameGiven }} {{ org.NameFamily }}{% if org.Title %}{{ org.Title | prepend: ", "}}{% endif %}</li>
+    <li><b>{% if org.URL %}<a href="{{ org.URL }}">{% endif %}{{ org.Organization }}{% if org.URL %}</a>{% endif %}</b>, by {{ org.NameGiven }} {{ org.NameFamily }}{% if org.Title %}{{ org.Title | prepend: ", "}}{% endif %}</li>
   {%- endfor -%}
 </ol>
 
@@ -26,6 +26,6 @@ Our organizations support this global effort to sustain open scholarly infrastru
 <ol>
   {%- assign supportingpeople = site.data.supporters | where:"Status","Myself" | sort: 'NameGiven' -%}
   {%- for person in supportingpeople -%}
-    <li><b>{{ person.NameGiven }} {{ person.NameFamily }}</b>{% if person.Title %}{{ person.Title | prepend: ", " }}{% endif %} at <a href="{{ person.URL }}">{{ person.Organization }}</a></li>
+    <li><b>{{ person.NameGiven }} {{ person.NameFamily }}</b>{% if person.Title %}{{ person.Title | prepend: ", " }}{% endif %} at {% if person.URL %}<a href="{{ person.URL }}">{% endif %}{{ person.Organization }}{% if person.URL %}</a>{% endif %}</li>
   {%- endfor -%}
 </ol>
