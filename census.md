@@ -40,7 +40,7 @@ Those who completed the survey during its pilot launch in Spring 2019 include th
 1. Humanities Commons
 1. Hypothes.is Project
 1. Impactstory/Unpaywall
-1. Internation Image Operability Framework (IIIF)
+1. International Image Operability Framework (IIIF)
 1. Islandora
 1. LOCKSS Program
 1. Manifold Scholarship
