@@ -12,7 +12,7 @@ The Census of Scholarly Communication Infrastructure is now open for completion 
 * [PDF of the Census Instrument](https://educopia.org/wp-content/uploads/2019/05/Census_2019_Open05132019.pdf): Preview all the questions on the survey, some of which you won’t have to answer due to the branching logic of the survey.
 
 ## Background
-The Invest in Open Initiative seeks to deepen our understanding of 1) the organizational and technical infrastructures represented within existing scholarly communication resources (tools, services, platforms); and 2) the funding and investment models that currently support these tools, services, and platforms.
+The Invest in Open Initiative (IOI) seeks to deepen our understanding of 1) the organizational and technical infrastructures represented within existing scholarly communication resources (tools, services, platforms); and 2) the funding and investment models that currently support these tools, services, and platforms.
 
 To that end, in Spring 2019, IOI worked with the Andrew W. Mellon Foundation-funded "[Mapping the Scholarly Communication Infrastructure](https://scholarlycommons.net/map/)" project (Middlebury, 2018–2019), to develop and launch a Census of Scholarly Communication Infrastructure. This Census has been completed by more than 45 invited scholarly communication resources, and it provides baseline and aggregate data that help us to better understand the organizational and technical infrastructures currently supporting the scholarly communication system.
 
