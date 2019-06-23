@@ -59,7 +59,7 @@ Those who completed the survey during its pilot launch in Spring 2019 include th
 1. RightsLink Author
 1. Samvera
 1. Synapse Platform
-1. Texas Digital LIbrary
+1. Texas Digital Library
 1. The Center For Scientific Integrity
 1. Ubiquity Press
 1. Ubiquity Press platform
