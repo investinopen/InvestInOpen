@@ -113,8 +113,8 @@ Timestamp,NameGiven,NameFamily,Organization,Title,URL,Status
 5/30/2019 19:06:55,Kevin,Stranack,Public Knowledge Project at Simon Fraser University Library,Managing Director,https://pkp.sfu.ca,Myself
 5/31/2019 1:05:30,Zach,Chandler,Stanford University,"Director, Research IT & Innovation",https://www.stanford.edu/,My Institution
 5/31/2019 19:52:21,Alainna,Wrigley,"California Digital Library, University of California Office of the President",Publication Management System Coordinator,http://uc-oa.info,Myself
-6/3/2019 16:58:58,Alex,Kleiner,sci.city,CEO,https://sci.city/,My Institution
 6/2/2019 20:34:42,Arild,Skalmeraas,University of Southeastern Norway,Senior Librarian,http://bibliotek.usn.no/english/,Myself
+6/3/2019 16:58:58,Alex,Kleiner,sci.city,CEO,https://sci.city/,My Institution
 6/4/2019 16:14:55,Steve,Rollins,University of Alaska Anchorage,"Dean, UAA/APU Consortium Library",https://consortiumlibrary.org,My Institution
 6/5/2019 19:39:21,Hans,de Jonge,Dutch Research Council (NWO),Head of Open Science,http://www.nwo.nl,Myself
 6/5/2019 19:59:21,Günter,Waibel,California Digital Library,Associate Vice Provost and Executive Director,https://www.cdlib.org/,My Institution
@@ -124,6 +124,7 @@ Timestamp,NameGiven,NameFamily,Organization,Title,URL,Status
 6/10/2019 19:44:24,Ludo,Waltman,"Centre for Science and Technology Studies (CWTS), Leiden University",Professor of Quantitative Science Studies,https://www.cwts.nl/,Myself
 6/12/2019 20:28:53,Deborah,Helman,University of Wisconsin - Madison Libraries,Director of Science & Engineering Libraries,https://library.wisc.edu,Myself
 6/13/2019 6:13:13,Rupert,Gatti,Open Book Publishers,Co-founder,https://openbookpublishers.com,My Institution
+6/14/2019 13:31:39,Leila,Dekkar,GÉANT,Project Manager,https://www.geant.org/,Myself
 6/14/2019 13:32:57,Thomas,Bello,"Kamuzu College of Nursing, University of Malawi",Senior Assistant Librarian,http://www.kcn.unima.mw,Myself
 6/14/2019 13:39:54,Ina,Smith,Academy of Science of South Africa/African Open Science Platform,Project Manager,http://africanopenscience.org.za/,Myself
 6/14/2019 13:54:59,Jibril Attahiru,Alhassan,Federal University of Technology Minna,University Librarian,http://www.futminna.edu.ng,Myself
@@ -154,7 +155,7 @@ Timestamp,NameGiven,NameFamily,Organization,Title,URL,Status
 6/20/2019 14:57:17,Rahul,Belani,ITHAKA JSTOR,VP Products,https://www.jstor.org,My Institution
 6/21/2019 17:06:14,Kristin,Antelman,"University of California, Santa Barbara",University Librarian,https://www.library.ucsb.edu/,My Institution
 6/21/2019 17:12:40,Johannah,White,Xavier University of Louisiana,OER Librarian,https://xula.libguides.com/library,Myself
-6/25/2019 11:23:13,Irene,Onyancha,United Nations Economic Commission for Africa,"Chief, Knowledge Management Services ",http://www.uneca.org,Myself
+6/25/2019 11:23:13,Irene ,Onyancha,United Nations Economic Commission for Africa,"Chief, Knowledge Management Services ",http://www.uneca.org,Myself
 6/26/2019 18:30:48,Kristi,Park,Texas Digital Library,Executive Director,https://www.tdl.org/,My Institution
 6/28/2019 11:43:24,Lire,Zakari,Conseil Africain et Malgache pour l'Enseignement Supérieur (CAMES),Head of Documentation and Information Centre,http://www.lecames.org,Myself
 7/2/2019 0:07:06,Zachary,Seitz,University of Kansas Medical Center,Laboratory Technician,http://www.kumc.edu/,Myself
@@ -165,3 +166,17 @@ Timestamp,NameGiven,NameFamily,Organization,Title,URL,Status
 7/3/2019 12:37:52,Chris,Bourg,MIT,Director of Libraries,https://libraries.mit.edu,Myself
 7/4/2019 9:28:21,Sizwe,Ngcobo,Pearson Institute of Higher Education,Resource Centre Manager (Bedfordview Campus),https://www.pearsoninstitute.ac.za/Campuses/Bedfordview.html,Myself
 7/15/2019 14:03:52,Sharla,Lair,LYRASIS,"Strategist, Content & Scholarly Communication Initiatives",https://www.lyrasis.org/,Myself
+7/18/2019 10:00:38,Lucy,Barnes,Open Book Publishers,Editor,https://www.openbookpublishers.com,Myself
+7/22/2019 19:57:06,Manuel,Loyola,Ariadna Ediciones,Profesor Universitario,http://ariadnaediciones.cl/,My Institution
+7/26/2019 13:09:08,Jeff,Moyer,Reveal Digital,Founder and Director,http://revealdigital.org/,My Institution
+7/30/2019 18:13:39,Mary Lee,Kennedy,Association of Research Libraries,Executive Director ,https://www.arl.org/,My Institution
+7/31/2019 9:12:13,Paul,Peters,Hindawi,CEO,https://www.hindawi.com/,My Institution
+7/31/2019 9:30:23,Demmy,Verbeke,KU Leuven Libraries,Head Artes,https://bib.kuleuven.be/english,Myself
+8/1/2019 15:52:57,Kaitlin,Newson,Scholars Portal,Digital Projects Librarian,https://scholarsportal.info/,Myself
+8/2/2019 12:30:09,Nicky,Agate,Columbia University Libraries,"Assistant Director, Scholarly Communication and Projects",https://scholcomm.columbia.edu,Myself
+8/7/2019 19:15:28,Georgia,Bullen,Simply Secure,Executive Director,https://simplysecure.org,Myself
+8/8/2019 21:21:11,Jack,Park,TopicQuests Foundation,Co-founder/CEO,http://www.topicquests.org/,My Institution
+8/9/2019 1:07:10,Joseph,Mwelwa,Joint Minds Consult,Senior Partner and Researcher,http://www.jointmindsconsult.com,My Institution
+8/9/2019 16:01:25,Ginny,Boyer,Open Library Foundation,Managing Director,http://www.openlibraryfoundation.org,My Institution
+8/18/2019 20:48:11,Daniel,O'Donnell,Force 11,President,http://force11.org,My Institution
+8/22/2019 2:22:11,Jill,Sexton,NC State University Library,Associate Director for the Digital Library,https://www.lib.ncsu.edu/,Myself
