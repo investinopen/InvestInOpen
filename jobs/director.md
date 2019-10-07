@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IOI Position Description: Director
+title: IOI Position Description Director
 permalink: /jobs/director/
 redirect_from: "/jobs/director.html"
 ---
