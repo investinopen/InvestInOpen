@@ -9,6 +9,8 @@ title: "Home"
   </component>
 
   <component>
+    <h2>Jobs</h2>
+    <p><a href="/jobs/director/">Director, Invest in Open Infrastructure</a></p>
     <h2>Sign Our Statement</h2>
     <p>See <a href="/supporters">who's supporting IOI</a> and add yourself and/or your organization as a supporter.</p>
     <p><b><a href="/supporters">Sign the statement ></a></b></p>
