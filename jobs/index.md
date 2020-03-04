@@ -6,6 +6,4 @@ permalink: /jobs/
 
 # Jobs at IOI
 
-## Open Positions
-
-* [Director, Invest in Open Infrastructure](director/)
+IOI is not currently hiring. [Subscribe](http://eepurl.com/gPdzGf) to periodic updates from the IOI community.
