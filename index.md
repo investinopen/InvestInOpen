@@ -9,8 +9,7 @@ title: "Home"
     <components>
       <component>
         <h2>Join the Census</h2>
-        <p>The Census of Scholarly Communication Infrastructure is now open. We invite projects and programs, for profit and nonprofit corporations, and hosted initiatives of all kinds to contribute to this growing body of information.</p>
-        <p><b><a href="/census">Complete the census ></a></b></p>
+        <p>The Census of Scholarly Communication Infrastructure is now open. We invite projects and programs, for profit and nonprofit corporations, and hosted initiatives of all kinds to contribute to this growing body of information. <b><a href="/census">Complete the census ></a></b></p>
       </component>
       <component>
         <h2>Recent & Upcoming Events</h2>

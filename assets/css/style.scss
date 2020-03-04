@@ -47,6 +47,10 @@ components {
   flex-direction: column;
 }
 
+component {
+  padding: 0 0 2em 0;
+}
+
 /* Partcipants */
 organizations {
   align-items: center;
@@ -93,4 +97,15 @@ name {
 
 people ol {
   margin: 1em 0 0 0;
+}
+
+/* Responsive Rules */
+@media (max-width: 960px) {
+  columns {
+    flex-direction: column;
+  }
+
+  right, left {
+    width: 100%;
+  }
 }
