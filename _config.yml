@@ -7,3 +7,5 @@ future: true
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+github_username: investinopen
+twitter_username: InvestInOpen

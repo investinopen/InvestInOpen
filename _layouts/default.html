@@ -8,6 +8,7 @@
     {% seo %}
     {% feed_meta %}
 
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -35,6 +36,22 @@
             {% endif %}
           {% endfor %}
         </nav>
+        <hr>
+        <p>
+          <div><strong>Contact us</strong>: <a href="mailto:info@investinopen.org">info@investinopen.org</a></div>
+          <div><strong>Subscribe</strong>: to our <a href="http://eepurl.com/gPdzGf">mailing list</a></div>
+        </p>
+        <socialicons>
+          <socialicon>
+            <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a>
+          </socialicon>
+          <socialicon>
+            <a href="/feed.xml"><i class="fa fa-rss"></i> RSS</a>
+          </socialicon>
+          <socialicon>
+            <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> Twitter</a>
+          </socialicon>
+        </socialicons>
       </header>
       <section>
 
