@@ -34,7 +34,7 @@ redirect_from: "/participants.html"
 
 Previously she served as the Endowment Director for the [Wikimedia Foundation](https://wikimediafoundation.org/), where she led [development of a fund](https://wikimediaendowment.org/) to sustain the future of Wikipedia and free knowledge. Prior to joining Wikimedia, Thaney directed the program portfolio for the [Mozilla Foundation](https://foundation.mozilla.org/en/), following her time building the [Mozilla Science Lab](https://science.mozilla.org/), a program to serve the open research community. She was on the founding team for [Digital Science](https://www.digital-science.com/), where she helped launch and advise programs to serve researchers worldwide, building on her time at [Creative Commons](https://creativecommons.org/about/program-areas/open-science/), where she crafted legal, technical, and social infrastructure for sharing data on the web.
 
-She also serves on the board of [LYRASIS](https://www.lyrasis.org/Pages/Main.aspx), a technology and services non profit serving higher education, libraries, archives and museums, and recently served as the Board Chair of [Code for Science & Society](https://codeforscience.org/), Invest in Open Infrastructure’s fiscal sponsor. She resides in Brooklyn, New York with her husband, toddler, and dog.
+She also serves on the board of [LYRASIS](https://www.lyrasis.org/Pages/Main.aspx), a technology and services nonprofit serving higher education, libraries, archives and museums, and recently served as the Board Chair of [Code for Science & Society](https://codeforscience.org/), Invest in Open Infrastructure’s fiscal sponsor. She resides in Brooklyn, New York with her husband, toddler, and dog.
 
 # Steering Committee
 <people>
