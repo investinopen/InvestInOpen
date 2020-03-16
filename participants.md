@@ -5,28 +5,6 @@ permalink: /participants/
 redirect_from: "/participants.html"
 ---
 
-# Participating Organizations
-<organizations>
-{%- assign organizations = site.data.participants.orgs | where:"type","org" | sort_natural: 'org' -%}
-{%- for organization in organizations -%}
-  <organization>
-    <logo>
-      {%- if organization.logo -%}
-        {%- if organization.url -%}<a href="{{ organization.url }}">{%- endif -%}
-        {{ organization.logo | prepend: '<img src="/assets/img/' | append: '" alt="' | append: organization.nick | append: ' logo" />' }}
-        {%- if organization.url -%}</a>{%- endif -%}
-      {%- endif -%}
-    </logo>
-    <name>
-      {%- if organization.url -%}<a href="{{ organization.url }}">{%- endif -%}
-      {{ organization.org }}
-      {%- if organization.nick != organization.org -%}{{ organization.nick | prepend: ' (' | append: ')' }}{%- endif -%}
-      {%- if organization.url -%}</a>{%- endif -%}
-    </name>
-  </organization>
-{%- endfor -%}
-</organizations>
-
 # Executive Director
 **Kaitlin Thaney**
 
@@ -51,3 +29,25 @@ She also serves on the board of [LYRASIS](https://www.lyrasis.org/Pages/Main.asp
   {%- endfor -%}
 </ol>
 </people>
+
+# Participating Organizations
+<organizations>
+{%- assign organizations = site.data.participants.orgs | where:"type","org" | sort_natural: 'org' -%}
+{%- for organization in organizations -%}
+  <organization>
+    <logo>
+      {%- if organization.logo -%}
+        {%- if organization.url -%}<a href="{{ organization.url }}">{%- endif -%}
+        {{ organization.logo | prepend: '<img src="/assets/img/' | append: '" alt="' | append: organization.nick | append: ' logo" />' }}
+        {%- if organization.url -%}</a>{%- endif -%}
+      {%- endif -%}
+    </logo>
+    <name>
+      {%- if organization.url -%}<a href="{{ organization.url }}">{%- endif -%}
+      {{ organization.org }}
+      {%- if organization.nick != organization.org -%}{{ organization.nick | prepend: ' (' | append: ')' }}{%- endif -%}
+      {%- if organization.url -%}</a>{%- endif -%}
+    </name>
+  </organization>
+{%- endfor -%}
+</organizations>
