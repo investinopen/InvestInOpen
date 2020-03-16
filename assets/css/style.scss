@@ -20,8 +20,7 @@ h1:not(:first-child), h2:not(:first-child) {
 
 .image-right {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   float: right;
 }
 
@@ -130,5 +129,11 @@ socialicon .fa {
 
   right, left {
     width: 100%;
+  }
+
+  .image-right {
+    display: block;
+    margin: auto auto 1em auto;
+    float: none;
   }
 }
