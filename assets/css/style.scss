@@ -18,6 +18,13 @@ h1:not(:first-child), h2:not(:first-child) {
   margin-top: 2em;
 }
 
+.image-right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
 /* Boxes */
 .box-right {
   float: right;
