@@ -6,7 +6,7 @@ permalink: /:year/:month/:day/:title:output_ext
 author: Kaitlin Thaney
 authorurl: 'https://investinopen.org/participants'
 categories: open, science, research, scholarship, humanities, tools, services, platforms, infrastructure, roadmap, funding, ioi,
-excerpt: Invest in Open Infrastructure is excited to announce the appointment of Kaitlin Thaney as the program’s inaugural Executive Director. Thaney has over 15 years experience in the open research and technology space where she’s built and scaled infrastructure, programming, and long-term funding for organizations including Creative Commons, Digital Science, Mozilla and, most recently, the Wikimedia Foundation.
+excerpt: This past month, we’ve seen a whole new set of challenges present themselves for the research ecosystem in the face of a global pandemic. Universities across the board are closing the doors and rapidly assessing what they can move online. Libraries are grappling with closures, and increased demand for remote access to their collections. 
 ---
 This past month, we’ve seen a whole new set of challenges present themselves for the research ecosystem in the face of a global pandemic. Universities across the board are closing the doors and rapidly assessing what they can move online. Libraries are grappling with closures, and increased demand for remote access to their collections. 
 
