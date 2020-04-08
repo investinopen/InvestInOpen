@@ -20,7 +20,7 @@ The need for open infrastructure is not new, but only heightened in these extrao
 
 I wanted to share more about how Invest in Open Infrastructure is working to contribute to these efforts and hopefully strengthen the entire open research ecosystem, in response to these extraordinary times. 
 
-#How IOI can help
+# How IOI can help
 
 Invest in Open Infrastructure (IOI) was launched to create a strategic, global body dedicated to furthering a network of open, interoperable community-led and -supported infrastructure to advance scholarship, research, and education. 
 
@@ -28,32 +28,32 @@ We are currently ramping up efforts to help support university decision makers, 
 
 Here are a few key functions we are spinning up in the near term to help:
 
-	*	_Targeted research for funders & decision makers_. Part of IOI’s work lies in providing targeted recommendations for mid-term and long-term investment to support high impact, at-risk projects and organizations. We see this classification as bringing to light the critically enabling research tooling whose disappearance would jeopardize essential research for COVID-19 or are unsubstitutable for entire disciplines, facing strain from overuse in this moment or at risk of disappearing for lack of long-term institutional support and/or funding.    
-	*	_Assessment criteria_. We are developing a model and criteria to assess critical infrastructure investment and cost in this space, building in concert with existing efforts where possible to increase impact; 
-	*	_Serving as a trusted partner_. We envision IOI playing a role in serving the community of funders, users and infrastructure providers by coordinating efforts across the space and providing guidance for projects looking to best position themselves and their communities for durable futures. 
+* __Targeted research for funders & decision makers__. Part of IOI’s work lies in providing targeted recommendations for mid-term and long-term investment to support high impact, at-risk projects and organizations. We see this classification as bringing to light the critically enabling research tooling whose disappearance would jeopardize essential research for COVID-19 or are unsubstitutable for entire disciplines, facing strain from overuse in this moment or at risk of disappearing for lack of long-term institutional support and/or funding.    
+* __Assessment criteria__. We are developing a model and criteria to assess critical infrastructure investment and cost in this space, building in concert with existing efforts where possible to increase impact; 
+* __Serving as a trusted partner__. We envision IOI playing a role in serving the community of funders, users and infrastructure providers by coordinating efforts across the space and providing guidance for projects looking to best position themselves and their communities for durable futures. 
 
 We also commit to sharing these learnings with the community of open research projects frequently and transparently as we get moving. 
 
-#A focus on critical infrastructure 
+# A focus on critical infrastructure 
 
 Here at Invest in Open Infrastructure (IOI) we’re asking a few key questions about critical research infrastructure to help us make sense of the now, to give us an idea of what the near future may hold, and to better scope what our reality could be once the dust settles. We were founded to help ensure that open infrastructure is not only a viable alternative to commercial tools, but a durable, sustainable, and smart option. 
 
-We are especially focusing for now on *_“critical research infrastructure”_*, defined as the projects, tools and services emerging as essential for combating this public health crisis. IOI is particularly interested in tooling to advance open, collaborative research -- and never before have we seen a need for shared, accessible tools, content, and knowledge on a global scale as we do today. 
+We are especially focusing for now on *__“critical research infrastructure”__*, defined as the projects, tools and services emerging as essential for combating this public health crisis. IOI is particularly interested in tooling to advance open, collaborative research -- and never before have we seen a need for shared, accessible tools, content, and knowledge on a global scale as we do today. 
 
 Below are a few key questions we’re asking as we work to chart a way forward: 
 
-	•	What is emerging as *_critical infrastructure_*? What tools, projects and services are we seeing people converging on? 
-	•	Where are we seeing strains on the research system right now? What is most at-risk? 
-	•	Where are there gaps? What bottlenecks remain?  
+* What is emerging as critical infrastructure? What tools, projects and services are we seeing people converging on? 
+* Where are we seeing strains on the research system right now? What is most at-risk? 
+* Where are there gaps? What bottlenecks remain?  
 
 We’ve also outlined a number of categories for activity that we’re monitoring. This is by no means an exhaustive list, but designed as a high-level frame to get us started.
 
 Infrastructure that enables:
 
-	•	Open access to information and knowledge discovery, 
-	•	Robust real-time analyses and data sharing, 
-	•	Dissemination, communication, and rapid review of information, 
-	•	Global coordination and curatorial efforts,, collaboration, and shared decision making, 
-	•	And, research to be put into action / mobilization layer. 
+* Open access to information and knowledge discovery, 
+* Robust real-time analyses and data sharing, 
+* Dissemination, communication, and rapid review of information, 
+* Global coordination and curatorial efforts,, collaboration, and shared decision making, 
+* And, research to be put into action / mobilization layer. 
 
 We’re looking for examples as we continue to spin up our efforts and we would love your help. We’ll be sharing out more in the coming weeks. For now, please feel free to reach out directly. My email is [kt@investinopen.org](mailto:kt@investinopen.org).
