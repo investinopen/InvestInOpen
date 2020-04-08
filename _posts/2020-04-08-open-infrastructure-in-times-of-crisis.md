@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ‘Open Infrastructure in times of crisis:  How IOI can help’
-date: '2020-04-08 09:10:00 -0500'
+date: '2020-04-08 10:00 -0500'
 permalink: /:year/:month/:day/:title:output_ext
 author: Kaitlin Thaney
 authorurl: 'https://investinopen.org/participants'
