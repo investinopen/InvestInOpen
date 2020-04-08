@@ -8,6 +8,9 @@ authorurl: 'https://investinopen.org/participants'
 categories: open, science, research, scholarship, humanities, tools, services, platforms, infrastructure, roadmap, funding, ioi,
 excerpt: This past month, we’ve seen a whole new set of challenges present themselves for the research ecosystem in the face of a global pandemic. Universities across the board are closing the doors and rapidly assessing what they can move online. Libraries are grappling with closures, and increased demand for remote access to their collections. 
 ---
+
+# Open Infrastructure in times of crisis:  How IOI can help
+
 This past month, we’ve seen a whole new set of challenges present themselves for the research ecosystem in the face of a global pandemic. Universities across the board are closing the doors and rapidly assessing what they can move online. Libraries are grappling with closures, and increased demand for remote access to their collections. 
 
 Funding models that have long propped up higher education, research, and scholarly communications are in flux [due to volatility of the markets](https://www.marketwatch.com/story/why-the-vix-gauge-of-stock-market-volatility-is-still-so-stubbornly-high-2020-03-30), [budgeting uncertainty at the university level in preparation for what’s to come](https://www.timeshighereducation.com/news/coronavirus-could-be-make-or-break-universities-finances), and those with means are scrambling to [make emergency grants](https://www.philanthropy.com/article/More-US-Companies-and/248377) to the most [shovel-ready projects](https://en.wikipedia.org/wiki/Shovel_ready) and affected communities. The global economy is [coming to a grinding halt](https://www.washingtonpost.com/business/2020/03/14/recession-economy-coronavirus-jobs/).
