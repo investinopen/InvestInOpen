@@ -9,3 +9,6 @@ plugins:
   - jekyll-redirect-from
 github_username: investinopen
 twitter_username: InvestInOpen
+
+# For GitHub Actions
+github: [metadata]
