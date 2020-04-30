@@ -86,11 +86,6 @@ orgs:
   org: Curtin University
 
 - type: person
-  namegiven: Lucy
-  namefamily: Ofiesh
-  org: Center for Open Science
-
-- type: person
   namegiven: Nici
   namefamily: Pfeiffer
   org: Center for Open Science
@@ -133,7 +128,7 @@ orgs:
 - type: person
   namegiven: Evviva
   namefamily: Weinraub
-  org: Northwestern University
+  org: State University of New York at Buffalo
 
 - type: person
   namegiven: Dan
