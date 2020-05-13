@@ -16,7 +16,7 @@ The insights gained via this important survey, which is being conducted for the 
 
 [From the SPARC Europe blog](https://sparceurope.org/new-survey-scoping-the-oa-and-os-infrastructure-landscape-in-europe/):
 
-“Through this effort, we hope to bring greater visibility and a deeper understanding of the many European-based OA and OS services on offer,” said Vanessa Proudman, director of SPARC Europe and member of the IOI Steering Group. “My engagement in Invest in Open Infrastructure (IOI) is to ensure that this global approach is aware of and sensitive to the specifics of the European infrastructure and funding culture. To help achieve a tangible and pragmatic global solution to funding Open infrastructure, lessons need to be learnt from all regions of the world whilst at the same time needing to work for Europe. This new survey is the first step in this important process.”
+"Through this effort, we hope to bring greater visibility and a deeper understanding of the many European-based OA and OS services on offer,” said Vanessa Proudman, Director of SPARC Europe and member of the IOI Steering Group. “My engagement in Invest in Open Infrastructure (IOI) is to ensure that this global approach is aware of and sensitive to the specifics of the European infrastructure and funding culture. We want to ensure that while we are reaching out and embracing lessons from across the globe, in our search for tangible and pragmatic solutions to funding Open infrastructure, Europe is addressed and considered. This new survey is the first step in this important process."
 
 The survey will be open for responses through June 5, 2020.
 
