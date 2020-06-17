@@ -17,13 +17,9 @@ For the next six months, we will be working with representatives across key area
 Institutional leaders are currently grappling with planning as they move towards reopening, and there are a few key factors we believe they should be designing for. These include but are not limited to:
 
 * Need for heightened access to content and data to support research and scholarship;
-
 * Systems to ensure safe, continued, and reliable publishing, delivery, and dissemination of scholarship;
-
 * Interventions to support shifts to virtual learning and meetings; 
-
 * Cost-efficiencies and a shift to "do more with less"  amidst economic instability and budget cuts;
-
 * And, durability of existing systems relied on for research and scholarship, to hedge against infrastructure collapse and potential consolidation. 
 
 We believe institutions have an opportunity to explore collectively cost-effective and sustainable solutions to address immediate needs at their institution. They also have an opportunity to play an active role in furthering a larger, more systemic shift towards open, community-owned and operated infrastructure at the institutional level to support scholarship and ensure research continuity. __IOI was designed to help support decision-makers in times like these in providing targeted research and guidance, coordination, and support. Put simply, we're here to help.__
