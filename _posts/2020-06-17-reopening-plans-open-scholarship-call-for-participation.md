@@ -26,7 +26,7 @@ Institutional leaders are currently grappling with planning as they move towards
 
 * And, durability of existing systems relied on for research and scholarship, to hedge against infrastructure collapse and potential consolidation. 
 
-We believe institutions have an opportunity to explore collectively cost-effective and sustainable solutions to address immediate needs at their institution. They also have an opportunity to play an active role in furthering a larger, more systemic shift towards open, community-owned and operated infrastructure at the institutional level to support scholarship and ensure research continuity.
+We believe institutions have an opportunity to explore collectively cost-effective and sustainable solutions to address immediate needs at their institution. They also have an opportunity to play an active role in furthering a larger, more systemic shift towards open, community-owned and operated infrastructure at the institutional level to support scholarship and ensure research continuity. __IOI was designed to help support decision-makers in times like these in providing targeted research and guidance, coordination, and support. Put simply, we're here to help.__
 
 The project sets out to deliver the following resources and services to partners: 
 
